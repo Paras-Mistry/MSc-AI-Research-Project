@@ -1,7 +1,9 @@
-# MSc-AI-Research-Project
+# Investigating Ecological Networks based on Structural Identity
 
 Name: Paras Vasant Mistry
 Student ID: 210877245
+
+#Setup
 
 Steps to perform project
 
