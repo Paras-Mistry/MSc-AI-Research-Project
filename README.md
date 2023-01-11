@@ -3,7 +3,7 @@
 Name: Paras Vasant Mistry
 Student ID: 210877245
 
-#Setup
+# Setup
 
 Steps to perform project
 
